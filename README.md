@@ -13,3 +13,52 @@ Le Markdown est un langage de balisage léger créé en 2004 par John Gruber ave
 ![Gif coding-monkey](https://media1.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy-downsized.gif)
 
 * <span style="color: red"> Pratique n'est ce pas ?! </span>
+
+## **_The cheat note_**
+
+<!-- Headings -->
+#Heading 1
+##Heading 2
+###Heading 3
+
+<!-- Italics-->
+*This text will be italic*
+_This will also be italic_
+
+<!-- Striketrought -->
+~~This text~~~is striketrought
+
+<!-- Horizontal Rule -->
+---
+___
+<!-- UL -->
+* Item 1
+* Item 2
+* Item 3
+
+<!-- OL -->
+1. Item 1
+2. Item 2
+3. Item 3
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
+
+Images
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+Liens
+http://github.com - automatic!
+[GitHub](http://github.com)
+Blockquotes
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+Code en ligne
+I think you should use an
+`<addr>` element here instead.
